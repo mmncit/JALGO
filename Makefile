@@ -45,7 +45,8 @@ LIB = JUNIT/junit-4.13-beta-1.jar
          Juan 
 # is understood as
 # NAME = Camilo        Juan
-CLASSES = datastructure/Queue.java \
+CLASSES = datastructure/*.java \
+		algorithms/*.java \
 		Math.java \
 		Time.java \
 	

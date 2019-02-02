@@ -1,6 +1,7 @@
-# ref: https://www.cs.swarthmore.edu/~newhall/unixhelp/javamakefiles.html
-#      http://profesores.elo.utfsm.cl/~agv/elo329/Java/javamakefile.html
-#      https://www.cs.odu.edu/~tkennedy/cs350/s17-tkennedy/Public/make/index.html
+# references: 
+#      1. https://www.cs.swarthmore.edu/~newhall/unixhelp/javamakefiles.html
+#      2. http://profesores.elo.utfsm.cl/~agv/elo329/Java/javamakefile.html
+#      3. https://www.cs.odu.edu/~tkennedy/cs350/s17-tkennedy/Public/make/index.html
 #
 
 #

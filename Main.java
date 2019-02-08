@@ -1,5 +1,4 @@
-import datastructure.Queue;
-
+import datastructure.*;
 public class Main{
 
     public static void main(String[] args) {
@@ -7,13 +6,13 @@ public class Main{
         System.out.println(Math.max(1, 3, 4, 5, 6, 2));
 
         int[] arrTest = { 10, 5, 17, 12, 20, 2 };
-        Queue<Integer> testQueue = new Queue<>();
+        ArrayList<Integer> myArray = new ArrayList<Integer>();
 
         for (int i = 0; i < arrTest.length; i++) {
-            testQueue.enqueue(arrTest[i]);
+            myArray.add(arrTest[i]);
         }
 
-        System.out.print(testQueue.toString());
+        System.out.print(myArray.toString());
 
     }
 

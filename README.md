@@ -1,11 +1,12 @@
 # JALGO
 
-Data Structures and Algorithms in Java
+Implementation data structures and algorithms in Java
 
 ## Tutorial materials for CPSC 319/331:
 
-* [Lets go to Quora](https://www.quora.com)
-
+* [CPSC 319 - Winter 2019](http://pages.cpsc.ucalgary.ca/~mdmamunur.rashid1/CPSC319-W19.html)
+* [CPSC 331 - Spring 2018](http://pages.cpsc.ucalgary.ca/~mdmamunur.rashid1/cpsc331.html)
+* [CPSC 319 - Winter 2018](http://pages.cpsc.ucalgary.ca/~mdmamunur.rashid1/CPSC319-W18.html)
 
 ## Build instructions
 

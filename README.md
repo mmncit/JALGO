@@ -2,6 +2,11 @@
 
 Data Structures and Algorithms in Java
 
+## Tutorial materials for CPSC 319/331:
+
+* [Lets go to Quora](https://www.quora.com)
+
+
 ## Build instructions
 
 ```bash
